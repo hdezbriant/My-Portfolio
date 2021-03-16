@@ -7,6 +7,7 @@
     --background: #222;
     --accent: #656565;
     --main-color: #ff0000; 
+    --temptext: mediumslateblue;
     /* Placeholder color. Please change later. */
 
 }
@@ -18,7 +19,7 @@ h1 {
 
 h2 {
     font-size: 150%;
-    color:mediumslateblue;
+    color:var(--temptext);
 }
 
 h3 {
@@ -74,8 +75,12 @@ section, footer {
     text-align: start;
 }
 
+section p {
+    margin: 1%;
+}
+
 .section-title {
-    border-bottom: solid white 5px;
+    border-bottom: solid var(--temptext) 5px;
 }
 
 .big-project,
@@ -83,12 +88,11 @@ section, footer {
     display: flex;
     flex-direction: column;
     background-color: var(--accent);
-    width: 80%;
+    margin: 2%;
+    /* width: 80%;
     align-items: center;
-    justify-content: center;
-
+    justify-content: center; */
 }
-
 
 .contact {
     display: flex;
