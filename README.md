@@ -10,9 +10,10 @@ how to build a web application from scratch, and use different forms and methods
 code to use as a guide.
 
 
-# Click here to go to my portfolio!
-###(Currently only optimized for mobile, desktop version coming soon!™)
- [screenshot of my portfolio](assets/Images/_C__Users_Brian_Desktop_Bootcamp_Assignments_My-Portfolio_index.html.png)
+# [Click here to go to my portfolio!](https://hdezbriant.github.io/My-Portfolio/)
+### (Currently only optimized for mobile, desktop version coming soon!™)
+![Screen capture of my Portfolio in mobile layout](assets/Images/_C__Users_Brian_Desktop_Bootcamp_Assignments_My-Portfolio_index.html.png)
+
 
 ## Credits
 
