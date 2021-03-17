@@ -84,6 +84,16 @@ nav a {
     position: relative;
 }
 
+.bannerSelfie {
+    height:80px;
+    width:80px;
+    border-radius: 50%;
+    z-index: 2;
+    position: absolute;
+    margin-left: 13%;
+    margin-top: 7%;
+}
+
 article p {
     margin: 2%;
     line-height: 1.2;
