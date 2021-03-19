@@ -21,7 +21,7 @@ Big thanks to:\
 [Christian Payan](https://github.com/chrispayan),\
 [Tyler Abegg](https://github.com/UnDuhDuhSea),\
 [Andrew Parsons](https://github.com/tvnames),\
-Arvin John Bautista, and\
+[Arvin John Bautista](https://github.com/irvinek01), and\
 \
 for all their help and for staying up to help each other out!\
 You guys are awesome :)
